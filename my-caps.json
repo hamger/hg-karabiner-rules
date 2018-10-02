@@ -1,0 +1,33 @@
+
+{
+  "title": "Change caps_lock2 + c to caps_lock",
+  "rules": [
+    {
+      "description": "Change caps_lock2 + c to caps_lock",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "c",
+            "modifiers": {
+              "mandatory": [
+                "left_shift",
+                "left_command",
+                "left_control",
+                "left_option"
+              ],
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "caps_lock"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
