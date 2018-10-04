@@ -1,14 +1,14 @@
 
 {
-  "title": "Change caps_lock2 + c to caps_lock",
+  "title": "Change caps_lock2 + backslash to caps_lock",
   "rules": [
     {
-      "description": "Change caps_lock2 + c to caps_lock",
+      "description": "Change caps_lock2 + backslash to caps_lock",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "c",
+            "key_code": "backslash",
             "modifiers": {
               "mandatory": [
                 "left_shift",
