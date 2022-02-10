@@ -7,7 +7,8 @@ my rules for Karabiner-Elements complex_modifications
 3. 打开 `Karabiner-Elements Preferences` > `Complex Modifications` > `Add rules`引入规则
 
 ### rules
-> 使用以下规则前需先引入 Karabiner-Elements 自带的 `Change caps_ lock to command+control+option+shift`规则（`caps_lock`转化为`left_shift`+`left_command`+`left_control`+`left_option`）。
+> 使用以下规则前需先引入 Karabiner-Elements 自带的`Change caps_lock to command+control+option+shift`规则（`caps_lock`转化为`left_shift`+`left_command`+`left_control`+`left_option`）。
+> 如果你希望保留大写锁定，在开启上述规则**之前**，开启`Change caps_lock2 + backslash to caps_lock`（`caps_lock` + `\` 转化为大写锁定）
 
 文件名 | 说明
 -- | --
