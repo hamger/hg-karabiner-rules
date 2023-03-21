@@ -14,4 +14,5 @@ my rules for Karabiner-Elements complex_modifications
 -- | --
 arrow.josn | `caps_lock` + `j`/`i`/`k`/`l` 转化为`←`/`↑`/`↓`/`→`
 arrow2.josn | `right_command` + `a`/`w`/`s`/`d` 转化为`←`/`↑`/`↓`/`→`
+arrow3.josn | `right_option` + `a`/`w`/`s`/`d` 转化为`←`/`↑`/`↓`/`→`
 caps.josn | `caps_lock` + `backslash` 转化为 `caps_lock`
